@@ -25,7 +25,7 @@ pipeline {
        stage('display message')
        {
             steps {
-                echo 'Testing github webhook'
+                echo 'Testing github webhook22'
             }
        }
     }
